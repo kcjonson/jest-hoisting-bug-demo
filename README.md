@@ -4,11 +4,13 @@ React Native Lerna Jest Hoist Bug
 
 Found: React Native cannot resolve dependencies when attempting to run Jest tests in a hoisted monorepo
 
-Node: v8.9.1
-NPM: 5.5.1
-Lerna: 2.4.0
-react-native-cli: 2.0.1
-react-native: 0.53.3
+| Dependency | Version |
+| -----------| --------|
+| Node | v8.9.1 |
+| NPM | 5.5.1 |
+| Lerna | 2.4.0 |
+| react-native-cli | 2.0.1 |
+| react-native | 0.53.3 |
 
 
 ## Create repo
