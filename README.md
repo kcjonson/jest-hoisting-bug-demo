@@ -58,7 +58,7 @@ ls -l packages/Bar/node_modules
 ```
 
 
-## bserve that tests are broken
+## Observe that tests are now broken
 
 ```
 cd packages/Foo
